@@ -1,0 +1,5 @@
+{
+  "env": "stresstest2",
+  "port": "8889",
+  "gc_project_id": "cash-prototype"
+}
