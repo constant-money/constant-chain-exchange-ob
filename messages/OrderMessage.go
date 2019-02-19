@@ -1,6 +1,6 @@
 package messages
 
-import "github.com/ninjadotorg/constant-exchange-ob/orderbook"
+import "github.com/constant-money/constant-chain-exchange-ob/orderbook"
 
 type OrderMessage struct {
 	Type  string          `json:type`

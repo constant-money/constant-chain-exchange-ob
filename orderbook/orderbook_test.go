@@ -3,7 +3,7 @@ package orderbook
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/ninjadotorg/constant-exchange-ob/utils"
+	"github.com/constant-money/constant-chain-exchange-ob/utils"
 	"sync"
 	"testing"
 	"time"
